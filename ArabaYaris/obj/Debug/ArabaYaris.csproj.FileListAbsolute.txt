@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\bin\Debug\ArabaYaris.exe.config
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\bin\Debug\ArabaYaris.exe
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\bin\Debug\ArabaYaris.pdb
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\obj\Debug\ArabaYaris.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\obj\Debug\ArabaYaris.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\obj\Debug\ArabaYaris.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\obj\Debug\ArabaYaris.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\obj\Debug\ArabaYaris.exe
+C:\Users\ASUS\source\repos\ArabaYaris\ArabaYaris\obj\Debug\ArabaYaris.pdb
